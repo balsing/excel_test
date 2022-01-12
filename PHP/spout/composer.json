@@ -1,0 +1,12 @@
+{
+    "name": "balsing/spout",
+    "authors": [
+        {
+            "name": "Денис Паштецкий",
+            "email": "dp@crtweb.ru"
+        }
+    ],
+    "require": {
+        "box/spout": "^3.3"
+    }
+}

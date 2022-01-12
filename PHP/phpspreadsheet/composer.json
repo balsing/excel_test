@@ -1,0 +1,12 @@
+{
+    "name": "balsing/php-spreadsheet",
+    "authors": [
+        {
+            "name": "Денис Паштецкий",
+            "email": "dp@crtweb.ru"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.20"
+    }
+}
